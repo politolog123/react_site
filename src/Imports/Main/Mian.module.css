@@ -1,0 +1,40 @@
+.mian_wrap{
+    position: relative;
+    width: 100%;
+    height: 506px;
+    background-color: #F6F6F6;
+    margin-top: 104px;
+}
+
+.h2{
+    padding: 120.25px;
+    font-family: 'Gilroy-Bold';
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+}
+.contain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin: -100px auto;
+    width: 485px;
+    height: 218px;
+    padding-top: 30px;
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #070707;
+}
+
+.contain_p{
+    padding-top: 30px;
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #070707;
+}

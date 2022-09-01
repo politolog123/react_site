@@ -1,0 +1,14 @@
+.photoshop{
+    text-align: center;
+    width: 166px;
+    height: 206px;
+    font-family: 'Gilroy-Bold';
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+}
+
+.image{
+    background-image: url(/src/Img/Vector.png);
+}

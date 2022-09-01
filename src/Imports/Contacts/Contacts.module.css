@@ -1,0 +1,63 @@
+.contacts{
+    width: 100%;
+    height: 500px;
+}
+
+.h2 {
+    margin-top: 114px;
+    text-align: center;
+    font-family: 'Gilroy-Bold';
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+}
+
+.p{
+    text-align: center;
+    display: block;
+    width: 275px;
+    height: 44px;
+    margin: 20px auto;
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+}
+
+.button{
+    margin: 29px auto;
+    text-align: center;
+    display: block;
+    width: 166px;
+    height: 38px;
+    background-color: black;
+    text-align: center;
+    font-family: 'Gilroy-Bold';
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    border-radius: 20px;
+
+    color: #FFFFFF;
+}
+
+.logo{
+    margin-top: 91px;
+    display: flex;
+    justify-content: center;
+    margin: 0 30px;
+}
+
+ .p1{
+    margin-top: 45px;   
+    font-family: 'Gilroy-Medium';
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+}
+
+.image{
+    background-image: url(/src/Img/Group\ 12.png);
+}

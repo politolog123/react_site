@@ -1,0 +1,35 @@
+.portfolio{
+    width: 100%;
+    height: 2290px;
+    background-color: #F6F6F6;
+    padding-top: 122px;
+    text-align: center;
+    font-family: 'Gilroy-Bold';
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+}
+.picture{
+    margin-top: 96px;
+    text-align: center;
+    margin-top: 45px;
+    text-align: center;
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #070707;
+   
+}
+
+.picture1{
+    background-image: url(/src/Img/Слой\ 1.png);
+}
+.picture2{
+    background-image: url(/src/Img/reebok_web.png);
+}
+.picture3{
+    background-image: url(/src/Img/reebok_web1.png);
+}

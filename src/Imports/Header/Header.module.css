@@ -1,0 +1,24 @@
+.header_block{
+    position: relative;
+    width: 100%;
+    max-width: 945px;
+    margin: 0 auto;
+}
+
+.header_li{
+    margin: 30px 0;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    font-family: 'Gilroy-Bold';
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: none;
+    color: #828282;
+    border-bottom: 1px solid #828282;
+}
+
+.header_a{
+    font-family: 'Gilroy-Bold';
+}
+

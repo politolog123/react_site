@@ -1,0 +1,38 @@
+.section_wrap{
+    width: 100%;
+    max-width: 945px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.text{
+    font-family: 'Gilroy-Bold';
+    font-size: 47.3392px;
+    line-height: 59px;
+    color: #070707;
+    Width: 123.51px
+}
+.text1{
+    Width: 155.65px;
+    Height: 44.06px;
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+}
+.together{
+    transform: rotate(-90deg);
+    font-family: 'Gilroy-Bold';
+    font-size: 16px;
+    line-height: 20px;
+    color: #828282;
+    margin-bottom: 20px;
+}
+.image{
+    background-image: url(/src/Img/reebok_web.png);
+    width: 943.61px;
+    height: 387px;
+    margin: 0 auto;
+}
